@@ -9,10 +9,12 @@ This tool was made for educational purposes onlY
 
 [+] Once done this go to bin
 
-[+] Open the Debug file
+[+] Open the Debug folder
 
 [+] If done everything successfully you should see checkertemplate.exe
 
 [+] run checkertemplate.exe and select list and proxies enjoy.
 
+**Notes**
 **I will not be updating anything on this program so if api dies sucks to suck find new api xD <3**
+**This is a simple template feel free to mess with it**

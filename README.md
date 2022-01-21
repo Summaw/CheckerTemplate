@@ -16,5 +16,7 @@ This tool was made for educational purposes onlY
 [+] run checkertemplate.exe and select list and proxies enjoy.
 
 **Notes**
+
 **I will not be updating anything on this program so if api dies sucks to suck find new api xD <3**
+
 **This is a simple template feel free to mess with it**

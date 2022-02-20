@@ -51,7 +51,7 @@ namespace PornHubChecker
                 CheckerHelper.threads = 100;
             }
 
-            for (; ; ) // if u don't know what is this, it's like while (true) it's a loop but while is gay
+            for (; ; )
             {
                 Colorful.Console.Write(DateTime.Now.ToString("[hh:mm:ss]"), Color.DarkOrange);
                 Colorful.Console.Write("> What type of ", Color.White);
@@ -75,7 +75,6 @@ namespace PornHubChecker
 
             Colorful.Console.WriteLine();
 
-            // Asks for combos & proxies
 
             string fileName;
             OpenFileDialog openFileDialog = new OpenFileDialog();
